@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 25 14:40:26 EDT 2024","Thu Jul 25 14:40:29 EDT 2024","3019","chrome","test/googleSearch.spec.ts","","","","Capture the search number for BMW",""
+"passed","Thu Jul 25 14:40:37 EDT 2024","Thu Jul 25 14:40:40 EDT 2024","3017","firefox","test/googleSearch.spec.ts","","","","Capture the search number for BMW",""
+"passed","Thu Jul 25 14:40:17 EDT 2024","Thu Jul 25 14:40:26 EDT 2024","8711","chrome","test/googleSearch.spec.ts","","","","Search for BMW on Search Field",""
+"passed","Thu Jul 25 14:40:30 EDT 2024","Thu Jul 25 14:40:37 EDT 2024","7471","firefox","test/googleSearch.spec.ts","","","","Search for BMW on Search Field",""
